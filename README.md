@@ -4,11 +4,10 @@ For this small project I really wanted to get better at cleaning data as well as
 I grabbed a couple of data sets for this small project. Here are the following links to go to the data 
 * M1 Money supply data set : https://fred.stlouisfed.org/series/M1SL
 * Unemployment rates : https://download.bls.gov/pub/time.series/ln/
-* 
-{Describe your purpose for writing this software to analyze the data.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+One of the purposes for me looking at these datasets was to find a correlation. I also wanted to develop my skills with cleaning and looking at data in different way. It was really fun to do this with the few states that i had selected. I tried to select the states that have really large populations in areas and have opposing views on the vaccine. Below are the charts that i have created
 
+Here is a video of me demoing the code and just going over the charts as well! 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Data Analysis Results
