@@ -1,9 +1,10 @@
 # Overview
+For this small project I really wanted to get better at cleaning data as well as find trends in that data.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
-
+I grabbed a couple of data sets for this small project. Here are the following links to go to the data 
+* M1 Money supply data set : https://fred.stlouisfed.org/series/M1SL
+* Unemployment rates : https://download.bls.gov/pub/time.series/ln/
+* 
 {Describe your purpose for writing this software to analyze the data.}
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
