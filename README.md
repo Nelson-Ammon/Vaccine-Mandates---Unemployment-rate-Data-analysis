@@ -26,7 +26,8 @@ Full list of states status on vaccine mandates
 ![chart](list.png)
 count of those states.
 ![chart](number_bar.png)
-
+![chart](fredgraph.png)
+![chart](civilian-unemployment-se.png)
 # Development Environment
 I used Visual Studio code as my IDE. 
 
@@ -37,7 +38,7 @@ I also used Altair to create charts and help with vizualizing the data.
 {Make a list of websites that you found helpful in this project}
 * [Altair Documentation](https://altair-viz.github.io/index.html)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
-
+* [Unemployment data](https://www.bls.gov/charts/employment-situation/civilian-unemployment.htm)
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
