@@ -12,19 +12,19 @@ Here is a video of me demoing the code and just going over the charts as well!
 
 # Data Analysis Results
 
-1. Does mandating COVID vaccine affect the rate of unemployment?
+## 1. Does mandating COVID vaccine affect the rate of unemployment?
 ![chart](Florida_final.png)
 ![chart](cali_final.png)
 ![chart](Texas_final.png)
 ![chart](newyork_final.png)
 ![chart](idaho_final.png)
 ![chart](hawaii_final.png)
-There is a small correlation between the data we see here.
-Full list of states status on vaccine mandates
+### There is a small correlation between the data we see here.
+### Full list of states status on vaccine mandates
 
 
 ![chart](list.png)
-count of those states.
+### count of those states.
 ![chart](number_bar.png)
 ![chart](fredgraph.png)
 ![chart](civilian-unemployment-se.png)
