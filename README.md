@@ -34,14 +34,11 @@ I used Visual Studio code as my IDE.
 I Used python and pandas to help with managing the data sets that i downloaded. 
 I also used Altair to create charts and help with vizualizing the data.
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Altair Documentation](https://altair-viz.github.io/index.html)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 * [Unemployment data](https://www.bls.gov/charts/employment-situation/civilian-unemployment.htm)
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Some more charts looking into infection rates compared to unemployment and see if they are correlated in any way.
 * A look into unemployment and how that might affect the M1 money supply.
 * 
