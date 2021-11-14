@@ -8,7 +8,7 @@ I grabbed a couple of data sets for this small project. Here are the following l
 One of the purposes for me looking at these datasets was to find a correlation. I also wanted to develop my skills with cleaning and looking at data in different way. It was really fun to do this with the few states that i had selected. I tried to select the states that have really large populations in areas and have opposing views on the vaccine. Below are the charts that i have created
 
 Here is a video of me demoing the code and just going over the charts as well! 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/z6kxPT5zJNs)
 
 # Data Analysis Results
 
